@@ -1,2 +1,3 @@
 # Pranathi-demo
-First Git repository 
+First Git repository.
+Author-N.Pranathi
